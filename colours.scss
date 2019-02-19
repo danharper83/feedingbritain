@@ -1,0 +1,42 @@
+$green : #4da52b;
+$orange: #faaf40;
+$dark-grey: #333333;
+$light-grey: #f3f3f3;
+$white: #fff;
+
+header {
+	background-color: $green;
+	color: #fff;
+}
+
+.white-text,
+.button {
+	color: $white;
+}
+
+.green-text,
+.green-link a {
+	color: $green;
+}
+
+.orange-text {
+	color: $orange;
+}
+
+.green-button,
+.green-bg {
+	background-color: $green;
+}
+
+.orange-button {
+	background-color: $orange;
+}
+
+.light-grey-bg {
+	background-color: $light-grey;
+}
+
+footer {
+	background-color: $dark-grey;
+	color: $white;
+}
