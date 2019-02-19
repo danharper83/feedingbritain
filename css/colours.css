@@ -1,0 +1,28 @@
+header {
+  background-color: #4da52b;
+  color: #fff; }
+
+.white-text,
+.button {
+  color: #fff; }
+
+.green-text,
+.green-link a {
+  color: #4da52b; }
+
+.orange-text {
+  color: #faaf40; }
+
+.green-button,
+.green-bg {
+  background-color: #4da52b; }
+
+.orange-button {
+  background-color: #faaf40; }
+
+.light-grey-bg {
+  background-color: #f3f3f3; }
+
+footer {
+  background-color: #333333;
+  color: #fff; }

@@ -1,17 +1,28 @@
-	@font-face {
-		font-family: 'Montserrat', sans-serif;
-		src: url('https://fonts.googleapis.com/css?family=Montserrat');
-}
-	@font-face {
-		font-family: 'Roboto', sans-serif;
-		src: url('https://fonts.googleapis.com/css?family=Roboto');
-}
+@font-face {
+  font-family: 'Montserrat', sans-serif;
+  src: url("https://fonts.googleapis.com/css?family=Montserrat"); }
 
-h1 { font-family: 'Montserrat', sans-serif; }
-h2 { font-family: 'Montserrat', sans-serif; }
-h3 { font-family: 'Montserrat', sans-serif; }
-h4 { font-family: 'Montserrat', sans-serif; }
-h5 { font-family: 'Montserrat', sans-serif; }
-h6 { font-family: 'Montserrat', sans-serif; }
+@font-face {
+  font-family: 'Roboto', sans-serif;
+  src: url("https://fonts.googleapis.com/css?family=Roboto"); }
 
-p { font-family: 'Roboto', sans-serif; }
+h1 {
+  font-family: 'Montserrat', sans-serif; }
+
+h2 {
+  font-family: 'Montserrat', sans-serif; }
+
+h3 {
+  font-family: 'Montserrat', sans-serif; }
+
+h4 {
+  font-family: 'Montserrat', sans-serif; }
+
+h5 {
+  font-family: 'Montserrat', sans-serif; }
+
+h6 {
+  font-family: 'Montserrat', sans-serif; }
+
+p {
+  font-family: 'Roboto', sans-serif; }
